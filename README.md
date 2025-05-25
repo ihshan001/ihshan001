@@ -14,7 +14,7 @@
 
 - 🔭 Currently working on: Web and Product design, Java-based Management Systems, with some other languages, modern UI designs.
 - 🌱 Always learning: Backend dev in Java, frontend animations, networking tools & protocols.
-- 👨‍🎓 IT student @SLIATE.
+- 👨‍🎓 IT student @Wayamba University_ Faculty of Applied Sciences and @SLIATE.
 - 💬 Ask me about: UI/UX, Java Projects, System Design, Frontend animation, or AI Prompt Engineering.
 - 🧠 I generate creative AI-based project ideas using prompt engineering.
 
