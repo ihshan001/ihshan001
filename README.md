@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on: AI Chatbots, Java-based Management Systems, modern UI designs.
+- 🔭 Currently working on: Web and Product design, Java-based Management Systems, with some other languages, modern UI designs.
 - 🌱 Always learning: Backend dev in Java, frontend animations, networking tools & protocols.
-- 👨‍🎓 IT student @SLIATE passionate about merging logic and creativity.
+- 👨‍🎓 IT student @SLIATE.
 - 💬 Ask me about: UI/UX, Java Projects, System Design, Frontend animation, or AI Prompt Engineering.
 - 🧠 I generate creative AI-based project ideas using prompt engineering.
 
@@ -44,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/framer-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/wordpress-plain.svg" height="40" />
 </div>
 
 #### ⚙️ Frameworks, CMS & Tools
@@ -64,34 +66,6 @@
 
 ---
 
-### 📂 My Work Categories
-
-- 🧠 **AI Projects** – Creative chatbot prompts, AI-powered interactions, emotion-driven dialogue systems  
-- 🖥️ **Java Desktop Applications** – Management systems (Library, Gym, Electricity, Prison) with MySQL & Java Swing  
-- 🌐 **Web Development** – Responsive frontend designs (Rental websites, portfolios)  
-- 📲 **UI/UX Design** – Wireframes, interactive prototypes in Figma  
-
----
-
-### 🔥 Project Highlights
-
-- 🔌 **Electricity Management System**  
-  - Java + MySQL with admin/customer login  
-  - Full billing cycle & usage reports  
-- 🏫 **College Management System**  
-  - HTML/CSS/JavaScript (frontend), Java (backend)  
-  - Dashboards for admin/students  
-- 📚 **Library System (Java Desktop App)**  
-  - Member/Admin login  
-  - Book CRUD, genre search, overdue detection  
-- 🏠 **Rental Website**  
-  - Clean UI, mobile-first layout  
-  - Filter by property type and location  
-- 🚔 **Prison Management System** *(in dev)*  
-  - Inmate, crime, and visitor record system  
-  - Real-time dashboards with role-based access  
-
----
 
 ### 🤖 AI Experiments
 
@@ -102,31 +76,14 @@
 
 ---
 
-### 🌱 Tech I'm Exploring
-
-- 🐳 Docker  
-- ☁️ Firebase & Cloud Functions  
-- ⚙️ Spring Boot  
-- 📡 Network automation with Python  
-
----
-
 ### 💻 My Dev Environment
 
-- OS: Windows 11  
+- OS: Windows 10  
 - IDEs: VS Code, NetBeans, Android Studio  
-- Design: Figma, Canva  
+- Design: Figma, Framer, WordPress, Photoshop, Canva  
 - Browser Dev Tools: Chrome + Firefox  
 - Terminal: Git Bash & CMD  
 
----
-
-### 🏆 Certifications
-
-- ✅ Responsive Web Design – freeCodeCamp  
-- ✅ Java Development – SLIATE  
-- ✅ UI/UX Design – Coursera  
-- ✅ Networking Essentials – Cisco Networking Academy  
 
 ---
 
