@@ -12,21 +12,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: AI Chatbots, Java-based Management Systems, and UI/UX-rich web designs.
-- 🌱 Always learning: Backend dev in Java, animations in JS, networking tools, and cloud deployment.
-- 💡 I love designing, developing, and debugging stuff that actually makes life easier.
-- 👨‍🎓 I'm a proud IT student @SLIATE, with a passion for bridging logic with creativity.
-- 💬 Ask me about anything tech — from frontend tricks to Java Swing backends, I’ve probably built it.
-- 🧠 Fun side: I experiment with AI prompts to generate wild, functional ideas.
-- ⚡ Fun fact: I can design in Figma, code in Java, and set up a network — all in one day. 😎
-
----
-
-### 📸 Featured Moments
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/05/51/42/055142ea1ad30320f736a6bea4e571ed.jpg" alt="Cool Image" />
-</div>
+- 🔭 Currently working on: AI Chatbots, Java-based Management Systems, modern UI designs.
+- 🌱 Always learning: Backend dev in Java, frontend animations, networking tools & protocols.
+- 👨‍🎓 IT student @SLIATE passionate about merging logic and creativity.
+- 💬 Ask me about: UI/UX, Java Projects, System Design, Frontend animation, or AI Prompt Engineering.
+- 🧠 I generate creative AI-based project ideas using prompt engineering.
 
 ---
 
@@ -40,42 +30,122 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages & Core
+#### 💻 Languages
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
 </div>
 
 #### 🎨 Design & UI
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" />
 </div>
 
-#### 🚀 Frameworks & Tools
+#### ⚙️ Frameworks, CMS & Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" />
 </div>
 
-#### 🌐 CMS & Hosting
+#### 💾 Database & IDEs
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="Webflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
 </div>
 
-#### 🔧 Tools & IDEs
+---
+
+### 📂 My Work Categories
+
+- 🧠 **AI Projects** – Creative chatbot prompts, AI-powered interactions, emotion-driven dialogue systems  
+- 🖥️ **Java Desktop Applications** – Management systems (Library, Gym, Electricity, Prison) with MySQL & Java Swing  
+- 🌐 **Web Development** – Responsive frontend designs (Rental websites, portfolios)  
+- 📲 **UI/UX Design** – Wireframes, interactive prototypes in Figma  
+
+---
+
+### 🔥 Project Highlights
+
+- 🔌 **Electricity Management System**  
+  - Java + MySQL with admin/customer login  
+  - Full billing cycle & usage reports  
+- 🏫 **College Management System**  
+  - HTML/CSS/JavaScript (frontend), Java (backend)  
+  - Dashboards for admin/students  
+- 📚 **Library System (Java Desktop App)**  
+  - Member/Admin login  
+  - Book CRUD, genre search, overdue detection  
+- 🏠 **Rental Website**  
+  - Clean UI, mobile-first layout  
+  - Filter by property type and location  
+- 🚔 **Prison Management System** *(in dev)*  
+  - Inmate, crime, and visitor record system  
+  - Real-time dashboards with role-based access  
+
+---
+
+### 🤖 AI Experiments
+
+- 🎭 **Emotion-based Chatbot**  
+- 💬 **Contextual Auto-Replier using AI**  
+- 🧠 **Prompt-Tuned Memory Chatbot**  
+*(I'm training these bots with real-world conversational data)*
+
+---
+
+### 🌱 Tech I'm Exploring
+
+- 🐳 Docker  
+- ☁️ Firebase & Cloud Functions  
+- ⚙️ Spring Boot  
+- 📡 Network automation with Python  
+
+---
+
+### 💻 My Dev Environment
+
+- OS: Windows 11  
+- IDEs: VS Code, NetBeans, Android Studio  
+- Design: Figma, Canva  
+- Browser Dev Tools: Chrome + Firefox  
+- Terminal: Git Bash & CMD  
+
+---
+
+### 🏆 Certifications
+
+- ✅ Responsive Web Design – freeCodeCamp  
+- ✅ Java Development – SLIATE  
+- ✅ UI/UX Design – Coursera  
+- ✅ Networking Essentials – Cisco Networking Academy  
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ihshan001&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihshan001&layout=compact&theme=tokyonight&langs_count=6" height="150" />
 </div>
+
+---
+
+### 🎮 GitHub Game Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ihshan001/ihshan001/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihshan001/ihshan001/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ihshan001/ihshan001/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -95,55 +165,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihshan001&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihshan001&layout=compact&theme=dracula&langs_count=6" height="150" />
-</div>
-
----
-
-### 🎮 Contribution Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ihshan001/ihshan001/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihshan001/ihshan001/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ihshan001/ihshan001/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-### 🏆 Certifications
-
-- ✅ Responsive Web Design – freeCodeCamp  
-- ✅ Java Development – SLIATE  
-- ✅ UI/UX Design – Coursera  
-- ✅ Networking Essentials – Cisco Networking Academy  
-*(Add more if available!)*
-
----
-
-### 🔥 Highlight Projects
-
-- ⚙️ **Electricity Management System** – Java + MySQL + Swing  
-- 📚 **Library Management System** – Desktop app with full CRUD  
-- 🏋️ **Gym Management System** – Java-based admin/member control  
-- 🏠 **Rental Website** – HTML/CSS/JS with mobile-first design  
-- 👨‍🎓 **College Management System** – Java backend + responsive UI  
-*(Add GitHub links if hosted)*
-
----
-
-### 🤓 Fun Facts
-
-- 🔌 I enjoy debugging more than coding sometimes. It’s like hunting bugs in the matrix.
-- 🎧 I code better when I'm vibing to lo-fi beats.
-- 📱 I once made an app just to prank my friends. It went too far 😅.
-
----
-
 <p align="center">
-✨ Thank you for visiting! ✨  
-Let’s build something amazing together!
+✨ Thanks for scrolling! Let's build something epic together!  
 </p>
