@@ -283,13 +283,10 @@ const ihshan = {
 <a href="https://instagram.com/yourprofile">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://github.com/ihshan001">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ihshan001&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=ihshan001&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS&base=250" />
 
 </div>
 
