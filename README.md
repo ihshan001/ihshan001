@@ -34,8 +34,8 @@ const ihshan = {
         "Focus on creative problem-solving"
     ],
     education: [
-        "🎓 IT @ Wayamba University",
-        "💻 Software Engineering @ SLIATE"
+        "🎓 Software Engineering @ Wayamba University",
+        "💻  HDIT @ SLIATE"
     ],
     currentVibe: "Living in the AI era, not the stone age ⚡",
     motto: "Adapt, Automate, Accelerate 🚀"
