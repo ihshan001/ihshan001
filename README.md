@@ -35,7 +35,7 @@ const ihshan = {
     ],
     education: [
         "🎓 Software Engineering @ Wayamba University",
-        "💻  HDIT @ SLIATE"
+        "💻  HNDIT @ SLIATE"
     ],
     currentVibe: "Living in the AI era, not the stone age ⚡",
     motto: "Adapt, Automate, Accelerate 🚀"
