@@ -1,126 +1,177 @@
 <div align="center">
 
-# 🚀 Welcome to My Digital Universe
+# 👨‍💻 M.I. IHSHAN AHAMED
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=M.I.+IHSHAN+AHAMED;AI-Powered+Full+Stack+Developer;Co-founder+%40+Corvax+Unified+Solutions;Transforming+Ideas+with+Smart+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=System+Administrator+%40+Dropme+Sri+Lanka;IT+Section+Head+%7C+Full+Stack+Developer;AI-Enhanced+Engineering+%26+Automation;Building+Scalable+Systems+with+Intelligence" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+[![Profile Views](https://komarev.com/ghpvc/?username=ihshan001&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/ihshan001)
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 🎯 Current Role
 
-<div align="left">
-
-<img align="right" alt="AI Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```typescript
-const ihshan = {
-    pronouns: "he/him",
-    location: "Sri Lanka 🇱🇰",
-    role: [
-        "AI-Enhanced Full Stack Developer",
-        "Product Designer & UX Strategist", 
-        "Co-founder @ Corvax Unified Solutions"
-    ],
-    philosophy: "Why work harder when you can work smarter?",
-    superpower: "AI Prompt Engineering & Automation",
-    approach: [
-        "Leverage AI for maximum efficiency",
-        "Build smarter, not just harder",
-        "Automate repetitive tasks",
-        "Focus on creative problem-solving"
-    ],
-    education: [
-        "🎓 Software Engineering @ Wayamba University",
-        "💻  HNDIT @ SLIATE"
-    ],
-    currentVibe: "Living in the AI era, not the stone age ⚡",
-    motto: "Adapt, Automate, Accelerate 🚀"
-};
+```yaml
+Position: System Administrator & IT Section Head
+Organization: Dropme Sri Lanka
+Focus Areas:
+  - Infrastructure Management & Optimization
+  - System Architecture & Security
+  - Team Leadership & Technical Strategy
+  - Process Automation & DevOps
 ```
+
+---
+
+## 💼 Professional Overview
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🔧 **What I Do**
+
+**Infrastructure & Systems**
+- Enterprise system administration and optimization
+- Network security and monitoring
+- Cloud infrastructure management
+- Disaster recovery and backup strategies
+
+**Development & Engineering**
+- Full-stack application development
+- API design and microservices architecture
+- Database optimization and management
+- CI/CD pipeline implementation
+
+**Leadership & Innovation**
+- IT team management and mentorship
+- Technical documentation and standards
+- Vendor management and procurement
+- Strategic planning and tech adoption
 
 <br clear="right"/>
 
-### 🤖 **The AI-First Approach**
-> *"This isn't the old ages anymore. We're in the era of intelligent automation."*
-
-I believe in working **smarter, not harder**. My development process is supercharged with AI tools and prompt engineering techniques that make me **10x more productive**. From code generation to design ideation, I leverage artificial intelligence to:
-
-- ⚡ **Accelerate development cycles** by 70%
-- 🎯 **Generate pixel-perfect designs** faster
-- 🔧 **Automate repetitive coding tasks**
-- 💡 **Brainstorm innovative solutions** with AI collaboration
-- 🐛 **Debug and optimize** code intelligently
-
-**The future belongs to those who adapt.** I'm not just using AI as a tool—I'm mastering it as a creative partner.
-
-</div>
-
 ---
 
-## 🛠️ My AI-Enhanced Tech Stack
+## 🛠️ Technical Arsenal
+
+### **Systems & Infrastructure**
+```plaintext
+OS Administration    ▰▰▰▰▰▰▰▰▰░  90%    Cloud Platforms     ▰▰▰▰▰▰▰▰░░  80%
+Network Security     ▰▰▰▰▰▰▰▰░░  85%    Virtualization      ▰▰▰▰▰▰▰▰░░  85%
+```
 
 <div align="center">
 
-### 💻 **Core Programming Languages**
+#### 🖥️ **Core Technologies**
+
+**Languages & Frameworks**
 <p>
-<img src="https://skillicons.dev/icons?i=java,cs,javascript,typescript,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cs,javascript,typescript,python,bash&theme=dark" />
 </p>
 
-### 🤖 **AI & Prompt Engineering**
+**Development & DevOps**
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,postgresql,mongodb,redis&theme=dark" />
+</p>
+
+**Infrastructure & Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,nginx,jenkins&theme=dark" />
+</p>
+
+**Cloud & Platforms**
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,cloudflare&theme=dark" />
+</p>
+
+#### 🤖 **AI & Automation**
 <p>
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-### 🎨 **Design & Creative Suite**
-<p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,wordpress&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" />
-<img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" />
-</p>
-
-### ⚡ **Frameworks & Development Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=bootstrap,react,nodejs,mysql,vscode,git&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="48" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-FF4B4B?style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## 🎯 **Current Focus Areas**
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=ihshan001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+</td>
+<td>
+<img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=ihshan001&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=ff6b6b&currStreakLabel=c9d1d9" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ihshan001&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+```typescript
+const credentials = {
+    formal_education: [
+        "🎓 B.Sc. Software Engineering - Wayamba University of Sri Lanka",
+        "💻 HNDIT - Sri Lanka Institute of Advanced Technological Education"
+    ],
+    focus_areas: [
+        "System Architecture & Design",
+        "Network Security & Administration", 
+        "DevOps & Infrastructure Automation",
+        "Full Stack Development"
+    ],
+    continuous_learning: "Always exploring new technologies and methodologies"
+};
+```
+
+---
+
+## 🚀 Areas of Expertise
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
-<h3>🔥 Building Smart</h3>
-<p><strong>AI-Powered Java Systems</strong><br>
-Management solutions that think ahead<br>
-<em>Efficiency through Intelligence</em></p>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
+<h3>⚡ System Administration</h3>
+<p>
+• Infrastructure optimization<br>
+• Security hardening<br>
+• Performance monitoring<br>
+• Disaster recovery
+</p>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
-<h3>🎨 Designing Better</h3>
-<p><strong>AI-Enhanced UX/UI</strong><br>
-User experiences that feel magical<br>
-<em>Beauty meets Functionality</em></p>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
+<h3>💻 Full Stack Development</h3>
+<p>
+• Scalable web applications<br>
+• RESTful API design<br>
+• Database architecture<br>
+• Microservices
+</p>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-<h3>🚀 Leading Forward</h3>
-<p><strong>Corvax Growth</strong><br>
-Building the future of freelancing<br>
-<em>Innovation in Business</em></p>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
+<h3>🤖 AI Integration</h3>
+<p>
+• Process automation<br>
+• Intelligent tooling<br>
+• Workflow optimization<br>
+• Smart solutions
+</p>
 </td>
 </tr>
 </table>
@@ -129,150 +180,40 @@ Building the future of freelancing<br>
 
 ---
 
-## 📊 **Performance Analytics**
+## 🏆 Key Achievements
+
+```diff
++ Successfully led IT infrastructure overhaul at Dropme Sri Lanka
++ Implemented automated deployment pipelines reducing deployment time by 70%
++ Architected and deployed scalable microservices architecture
++ Built enterprise-grade security protocols and monitoring systems
++ Mentored junior developers and system administrators
+```
+
+---
+
+## 📫 Get In Touch
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ihshan001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-
-<br><br>
-
-<table>
-<tr>
-<td align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ihshan001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github"/>
-</td>
-<td align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihshan001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihshan001&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=ff6b6b&currStreakLabel=c9d1d9" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihshanahamed@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ihshan001)
 
 </div>
 
 ---
 
-## 📈 **Coding Activity Heatmap**
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ihshan001&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b&hide_border=true" width="100%"/>
-</div>
-
----
-
-
----
-
-## 🌟 **Featured Project Showcase**
-
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+### 💡 *"Efficiency through automation, security through vigilance, innovation through continuous learning"*
 
-### 🤖 **Cybertron Tech - Transformers**
-*Next-gen toy collection platform*
-
-**✨ Highlights:**
-- 🎯 Futuristic cyber-tech interface
-- ⚡ AI-generated particle effects
-- 🎮 Smart product recommendations
-- 📱 Responsive across all devices
+**🤝 Open to collaboration on innovative projects**  
+**💼 Available for consulting and technical advisory**  
+**🚀 Let's build something remarkable together**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-</td>
-<td width="50%">
-
-### 🎨 **Gwen Stacy Artist Portfolio**
-*AI-enhanced creative showcase*
-
-**✨ Highlights:**
-- 🖼️ Dynamic masonry gallery layout
-- 🎭 Intelligent cursor interactions
-- 🌈 AI-optimized color schemes
-- 📸 Smart image optimization
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎓 **Dr. Kert Academic Hub**
-*Professional academic showcase*
-
-**✨ Highlights:**
-- 📚 AI-organized research library
-- 🏆 Achievement timeline
-- 📊 Interactive data visualization
-- 🎯 Professional networking tools
-
-</td>
-<td width="50%">
-
-### ☕ **Kamardeen Hospitality**
-*Restaurant management portfolio*
-
-**✨ Highlights:**
-- 🍽️ Warm, inviting design system
-- ⭐ Customer testimonial automation
-- 👨‍🍳 Career progression visualization
-- 📞 Smart contact management
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🌐 **Let's Build the Future Together**
-
-<div align="center">
-
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ihshanahamed@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/yourprofile" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://github.com/ihshan001" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ihshan001&style=for-the-badge&color=58a6ff&label=Profile+Views&base=533" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 *"In a world of artificial intelligence, be artificially intelligent"*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-
-<br><br>
-
-### 💡 **Ready to collaborate on something amazing?**
-
-**⭐ Star my repos if they spark your interest!**  
-**🤝 Always open to innovative partnerships**  
-**🚀 Let's turn your wildest ideas into digital reality**
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+**⭐ Star repositories you find interesting | 🔔 Follow for updates on new projects**
 
 </div>
