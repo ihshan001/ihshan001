@@ -2,7 +2,7 @@
 
 # 👨‍💻 M.I. IHSHAN AHAMED
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Senior+System+Administrator;Multi-Platform+Operations+Manager;Team+Lead+%7C+Technical+Supervisor;Enterprise+Systems+%26+Access+Control" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=بِسْمِ+اللهِ+الرَّحْمٰنِ+الرَّحِيْمِ;Senior+System+Administrator;Founder+%40+Arrostom+Software+Agency;Guided+by+Faith+%7C+Driven+by+Purpose" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ihshan001&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/ihshan001)
 
@@ -10,151 +10,144 @@
 
 ---
 
-## 🎯 Current Positions
+## 🤲 A Humble Beginning
+  
+> *"And whatever you have of favor - it is from Allah"* (Quran 16:53)
+
+Alhamdulillah, all praise is due to Allah for the opportunities and knowledge He has blessed me with. Every achievement, every skill, and every position I hold is solely by His mercy and guidance. I'm grateful to be in a position where I can serve, learn, and grow.
+
+---
+
+## 🎯 Current Roles
 
 ```yaml
-Primary Role:
-  Title: Senior System Administrator
-  Organization: Dropme Sri Lanka
-  Access Level: Super Admin (Root Access)
-  Responsibilities:
-    - Complete system oversight and administration
-    - Team management and training
-    - Access control and permission delegation
-    - System monitoring and security
-    - Direct communication with top-level management
-    - Testing and validation for system updates
-    - Performance optimization and troubleshooting
+System Administration:
+  Primary_Position:
+    Title: Senior System Administrator
+    Organization: Dropme Sri Lanka
+    Access_Level: Super Admin
+    Key_Responsibilities:
+      - Complete system oversight and administration
+      - Team training and management
+      - Access control and security
+      - Direct management communication
+      - Pre-deployment testing
+    
+  Secondary_Position:
+    Title: System Administrator (Training Phase)
+    Organization: Hellocard
+    Teams_Supervised: [Developers, Designers, IT Operations]
 
-Secondary Role:
-  Title: System Administrator (Training Phase)
-  Organization: Hellocard
-  Reporting Structure:
-    - Supervising development team
-    - Supervising design team  
-    - Supervising IT operations team
-  Focus: Multi-platform system administration and team coordination
+Entrepreneurship:
+  Company: Arrostom Software Agency
+  Role: Founder
+  Focus_Areas:
+    - Web Design & Development
+    - Digital Product Solutions
+    - Ready-made E-Learning Platforms
+    - Professional Portfolio Templates
+    - Custom Web Applications
+  Mission: "Providing quality digital solutions with integrity and excellence"
 ```
 
 ---
 
-## 💼 Core Competencies
+## 💼 What Allah Has Enabled Me To Do
 
-<img align="right" alt="Admin Dashboard" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Work" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🔐 **System Administration & Access Control**
-- **Super Admin Operations** - Root-level system management
-- **User Access Management** - Role-based permission assignment
-- **Security Protocols** - Multi-layer access control implementation
-- **System Monitoring** - Real-time performance tracking
-- **Update Testing** - Pre-deployment validation and QA
+### 🔐 **System Administration & Leadership**
+By Allah's grace, I've been entrusted with:
+- Managing enterprise systems with root access
+- Training and guiding technical teams
+- Implementing security and access protocols
+- Testing systems for stability and updates
+- Coordinating between management and teams
 
-### 👥 **Team Leadership & Management**
-- **Task Delegation** - Strategic work distribution
-- **Training & Development** - Upskilling team members
-- **Performance Monitoring** - Regular progress tracking
-- **Cross-functional Coordination** - Dev, Design, IT teams
-- **Workflow Optimization** - Process improvement initiatives
+### 🚀 **Arrostom Software Agency**
+Alhamdulillah, building a business focused on:
+- **Web Design & Development** - Creating meaningful digital experiences
+- **E-Learning Platforms** - Ready-to-deploy educational solutions
+- **Portfolio Templates** - Professional showcase websites
+- **Digital Products** - Quality solutions for businesses
+- **Custom Development** - Tailored web applications
 
-### 🔧 **Technical Operations**
-- **Multi-platform Administration** - Managing multiple systems
-- **Stakeholder Communication** - Direct management reporting
-- **System Integration** - Cross-platform coordination
-- **Issue Resolution** - Critical problem-solving
-- **Documentation** - Standard operating procedures
+### 👥 **Service & Responsibility**
+Through Allah's blessing, serving by:
+- Leading and mentoring technical teams
+- Providing training and skill development
+- Managing cross-functional coordination
+- Maintaining system integrity and security
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Skills & Tools
 
 <div align="center">
 
-### **System Administration & Infrastructure**
+### **Core Technologies**
 
-**Core Technologies**
+**System Administration**
 <p>
 <img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,nginx,redis&theme=dark" />
 </p>
 
-**Database Management**
+**Web Development**
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs&theme=dark" />
 </p>
 
-**Development & Scripting**
+**Backend & Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash,javascript,typescript,java,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cs,python,mysql,postgresql,mongodb&theme=dark" />
 </p>
 
-**DevOps & Monitoring**
+**Design & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=git,jenkins,ansible,grafana,prometheus&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,wordpress,git,vscode&theme=dark" />
 </p>
 
-**Cloud & Platforms**
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel&theme=dark" />
-</p>
-
-### **Management & Productivity Tools**
-
-<p>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
 
 </div>
 
 ---
 
-## 📊 Responsibility Matrix
+## 📊 Areas of Service
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
-<h3>🔐 Access Control</h3>
+<h3>🔐 Administration</h3>
 <p>
-• Super admin privileges<br>
-• Permission delegation<br>
-• Role-based access<br>
-• Security management
+• System management<br>
+• Security protocols<br>
+• Team coordination<br>
+• Access control
 </p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
-<h3>👥 Team Management</h3>
+<h3>💻 Development</h3>
 <p>
-• Training programs<br>
-• Task assignment<br>
-• Performance reviews<br>
-• Team coordination
+• Web applications<br>
+• E-learning platforms<br>
+• Portfolio solutions<br>
+• Digital products
 </p>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
-<h3>⚙️ System Operations</h3>
+<h3>👥 Leadership</h3>
 <p>
-• Live monitoring<br>
-• Update testing<br>
-• Issue resolution<br>
-• Optimization
-</p>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
-<h3>📈 Management Liaison</h3>
-<p>
-• Status reporting<br>
-• Strategic planning<br>
-• Requirement gathering<br>
-• Decision making
+• Team training<br>
+• Task management<br>
+• Mentorship<br>
+• Guidance
 </p>
 </td>
 </tr>
@@ -164,64 +157,24 @@ Secondary Role:
 
 ---
 
-## 📈 Daily Operations
-
-```typescript
-const dailyWorkflow = {
-    systemMonitoring: {
-        platforms: ['Dropme', 'Hellocard'],
-        metrics: ['uptime', 'performance', 'security', 'user_activity'],
-        frequency: 'Real-time monitoring with scheduled reviews'
-    },
-    
-    teamManagement: {
-        activities: [
-            'Task assignment and tracking',
-            'Access control and permissions',
-            'Progress monitoring and reviews',
-            'Training sessions and guidance',
-            'Cross-team coordination'
-        ],
-        teams_supervised: ['Developers', 'Designers', 'IT Operations']
-    },
-    
-    systemAdministration: {
-        responsibilities: [
-            'Super admin operations',
-            'System configuration changes',
-            'Pre-deployment testing',
-            'Security audits',
-            'Performance optimization',
-            'Backup and recovery management'
-        ]
-    },
-    
-    stakeholderCommunication: {
-        reporting_to: 'Top-level Management',
-        frequency: 'Regular updates and strategic meetings',
-        topics: ['System status', 'Team performance', 'Update proposals', 'Issue escalations']
-    }
-};
-```
-
----
-
-## 🏆 Key Achievements & Impact
+## 🌟 Alhamdulillah - Achievements Through His Grace
 
 ```diff
-+ Managing super admin access across multiple enterprise platforms
-+ Successfully built and trained a high-performing technical team
-+ Implemented robust access control and security protocols
-+ Reduced system downtime through proactive monitoring and testing
-+ Established efficient task delegation and workflow processes
-+ Maintaining seamless communication between technical teams and management
-+ Successfully coordinating cross-functional teams (Dev, Design, IT)
-+ Conducting comprehensive pre-deployment system testing
++ Leading system administration across multiple platforms
++ Building and training technical teams
++ Establishing Arrostom Software Agency
++ Developing ready-made digital solutions
++ Managing cross-functional teams (Dev, Design, IT)
++ Implementing security and monitoring systems
++ Creating e-learning and portfolio platforms
++ Serving management and technical teams alike
 ```
+
+*All success is from Allah alone. Every accomplishment is His blessing, not my doing.*
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -242,48 +195,68 @@ const dailyWorkflow = {
 
 ---
 
-## 🎓 Education & Professional Development
+## 🎓 Education & Learning Journey
 
 ```typescript
-const qualifications = {
+const background = {
     formal_education: [
         "🎓 B.Sc. Software Engineering - Wayamba University of Sri Lanka",
         "💻 HNDIT - Sri Lanka Institute of Advanced Technological Education"
     ],
     
-    specialized_skills: [
+    professional_growth: [
         "Enterprise System Administration",
         "Team Leadership & Management",
-        "Access Control & Security",
-        "Multi-platform Operations"
+        "Web Development & Design",
+        "Business Operations & Strategy"
     ],
     
-    leadership_training: "Advanced on-the-job training in business operations and management",
+    continuous_learning: "Always seeking knowledge and improvement",
     
-    continuous_improvement: "Actively expanding knowledge in enterprise architecture and strategic management"
+    guidance: "Blessed with mentors who saw potential and invested in my growth"
 };
 ```
 
 ---
 
-## 💼 Professional Approach
+## 🤝 Arrostom Software Agency - Digital Solutions
 
 <div align="center">
 
-| **Principle** | **Implementation** |
+### **Our Services**
+
+| **Service** | **Description** |
 |:---|:---|
-| 🎯 **Systematic Leadership** | Structured task delegation with clear accountability |
-| 🔐 **Security First** | Multi-layer access control and regular audits |
-| 📊 **Data-Driven Decisions** | Monitoring metrics guide optimization strategies |
-| 🤝 **Transparent Communication** | Regular updates to management and team members |
-| 🚀 **Continuous Improvement** | Constant system testing and performance enhancement |
-| 👥 **Team Empowerment** | Training-focused approach to team development |
+| 🎨 **Web Design & Development** | Custom websites built with care and quality |
+| 📚 **E-Learning Platforms** | Ready-made educational systems for institutions |
+| 💼 **Portfolio Templates** | Professional showcase solutions for individuals |
+| 🛍️ **Digital Products** | Quality web solutions and templates |
+| ⚙️ **Custom Applications** | Tailored solutions for specific business needs |
+
+*Building digital solutions with integrity, quality, and purpose.*
 
 </div>
 
 ---
 
-## 📫 Professional Contact
+## 💼 Approach & Values
+
+<div align="center">
+
+| **Principle** | **Practice** |
+|:---|:---|
+| 🤲 **Humility** | All success is from Allah, not personal achievement |
+| 🎯 **Excellence** | Striving for quality in every task |
+| 🤝 **Service** | Leading by serving and supporting others |
+| 📊 **Responsibility** | Fulfilling trusts with integrity |
+| 🌱 **Growth** | Continuous learning and improvement |
+| 💡 **Innovation** | Finding better ways to serve |
+
+</div>
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -297,14 +270,20 @@ const qualifications = {
 
 <div align="center">
 
-### 💡 *"Leading teams, managing systems, driving results"*
+### 💡*
+### *"And say: My Lord, increase me in knowledge"* (Quran 20:114)
 
-**🔐 Experienced in multi-platform system administration**  
-**👥 Proven track record in team leadership and training**  
-**⚡ Focused on operational excellence and security**
+**🤲 Alhamdulillah for every opportunity to learn and serve**  
+**🌟 Everything I have is by Allah's grace and mercy**  
+**🤝 Open to collaboration and serving where I can**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-**⭐ Open to discussing system architecture and team management**
+**⭐ May Allah bless your projects and endeavors**  
+**- May Allah reward you with goodness**
+
+---
+
+*"Work with sincerity, lead with humility, succeed with gratitude"*
 
 </div>
