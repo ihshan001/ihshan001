@@ -72,13 +72,6 @@ Alhamdulillah, building a business focused on:
 - **Digital Products** - Quality solutions for businesses
 - **Custom Development** - Tailored web applications
 
-### 👥 **Service & Responsibility**
-Through Allah's blessing, serving by:
-- Leading and mentoring technical teams
-- Providing training and skill development
-- Managing cross-functional coordination
-- Maintaining system integrity and security
-
 <br clear="right"/>
 
 ---
@@ -114,46 +107,6 @@ Through Allah's blessing, serving by:
 
 ---
 
-## 📊 Areas of Service
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
-<h3>🔐 Administration</h3>
-<p>
-• System management<br>
-• Security protocols<br>
-• Team coordination<br>
-• Access control
-</p>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
-<h3>💻 Development</h3>
-<p>
-• Web applications<br>
-• E-learning platforms<br>
-• Portfolio solutions<br>
-• Digital products
-</p>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
-<h3>👥 Leadership</h3>
-<p>
-• Team training<br>
-• Task management<br>
-• Mentorship<br>
-• Guidance
-</p>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
