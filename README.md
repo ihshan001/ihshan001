@@ -169,44 +169,6 @@ const background = {
     guidance: "Blessed with mentors who saw potential and invested in my growth"
 };
 ```
-
----
-
-## 🤝 Arrostom Software Agency - Digital Solutions
-
-<div align="center">
-
-### **Our Services**
-
-| **Service** | **Description** |
-|:---|:---|
-| 🎨 **Web Design & Development** | Custom websites built with care and quality |
-| 📚 **E-Learning Platforms** | Ready-made educational systems for institutions |
-| 💼 **Portfolio Templates** | Professional showcase solutions for individuals |
-| 🛍️ **Digital Products** | Quality web solutions and templates |
-| ⚙️ **Custom Applications** | Tailored solutions for specific business needs |
-
-*Building digital solutions with integrity, quality, and purpose.*
-
-</div>
-
----
-
-## 💼 Approach & Values
-
-<div align="center">
-
-| **Principle** | **Practice** |
-|:---|:---|
-| 🤲 **Humility** | All success is from Allah, not personal achievement |
-| 🎯 **Excellence** | Striving for quality in every task |
-| 🤝 **Service** | Leading by serving and supporting others |
-| 📊 **Responsibility** | Fulfilling trusts with integrity |
-| 🌱 **Growth** | Continuous learning and improvement |
-| 💡 **Innovation** | Finding better ways to serve |
-
-</div>
-
 ---
 
 ## 📫 Connect With Me
